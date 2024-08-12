@@ -1,0 +1,4 @@
+*.pyc
+.venv
+american-english-huge
+american-english-huge-refactored.csv
