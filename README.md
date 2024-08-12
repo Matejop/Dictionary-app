@@ -1,5 +1,5 @@
-Dictionary app. An API, which uses wamerican, more specifically american-english-huge (link to download below) to service POST endpoints,
-which send back information about request text, like what words are not defined in the wamerican, their count and pairs of defined and undefined words.
+Dictionary app. An API, which uses wamerican, more specifically american-english-huge (link to download below) to service POST endpoints.
+These endpoints send back information about request text, like what words are not defined in the wamerican, their count and pairs of defined and undefined words.
 
 Not deployed, runs on waitress. Local host set to port 50100
 
